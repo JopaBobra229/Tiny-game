@@ -1,0 +1,82 @@
+
+.shapka{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;
+    padding:10px;
+    
+}
+
+.about{
+    border: 3px rgb(0, 104, 104) solid;
+    border-radius: 5%;
+    height: 10vh;
+    width: 15vw;
+    display: flex;
+    justify-content:center;
+    background-color: teal;
+}
+
+.blog{
+    border: 3px rgb(178, 0, 0) solid;
+    border-radius: 5%;
+    height: 10vh;
+    width: 15vw;
+    display: flex;
+    justify-content:center;
+    background-color: red;
+}
+
+.NT{
+    border: 3px rgb(134, 166, 176) solid;
+    border-radius: 5%;
+    height: 10vh;
+    width: 15vw;
+    display: flex;
+    justify-content:center;
+    background-color: lightblue;
+}
+
+.telo{
+    background-color: gray;
+    text-align: center;
+    padding: 3%;
+    height: 70vh;
+}
+
+.don{
+    border: 3px rgb(186, 50, 0) solid ;
+    border-radius: 5%;
+    height: 10vh;
+    width: 15vw;
+    display: flex;
+    justify-content:center;
+    background-color: orangered;
+}
+
+.tp{
+    border: 3px rgb(0, 104, 104) solid; 
+    border-radius: 5%;
+    height: 10vh;
+    width: 15vw;
+    display: flex;
+    justify-content:center;
+    background-color: teal;
+}
+
+.hez{
+    background-color: rgb(103, 103, 103);
+}
+
+.stani{
+    background-color: black;
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;
+    padding:10px;
+}
+
+.ustal{
+    height: 15vh;
+}
