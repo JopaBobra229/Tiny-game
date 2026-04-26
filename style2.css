@@ -1,0 +1,102 @@
+.escape {
+    background-color: gray;
+    border: 0.2vw solid #000000;
+    border-radius: 15%;
+    position: relative;
+    top: 10vw;
+}
+
+html {
+    background-color: #DAD4CF;
+}
+
+
+
+._rule {
+    display: flex;
+    flex-direction: column;
+    border: 0.1em solid black;
+    width: 15vw;
+    align-items: center;
+}
+
+
+.t_rule {
+    display: flex;
+    flex-direction: column;
+    border: 0.1em solid black;
+    width: 15vw;
+    align-items: center;
+}
+
+
+.r_rule {
+    display: flex;
+    flex-direction: column;
+    border: 0.1em solid black;
+    width: 15vw;
+    align-items: center;
+}
+
+
+
+.green {
+    width: 10vw;
+    height: 10vh;
+}
+
+
+.yellow {
+    width: 10vw;
+    height: 10vh;
+}
+
+
+.red {
+    width: 10vw;
+    height: 10vh;
+}
+
+
+.rules {
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+    text-align: center;
+}
+
+
+
+.moni {
+    width: 50vw;
+    height: 60vh;
+    background-color: green;
+    position: relative;
+    left: 25vw;
+}
+
+
+.main_button {
+    border-radius: 100%;
+    background-color: red;
+    width: 8vw;
+    height: 15vh;
+    position: absolute;
+    bottom: 19vh;
+    left: 17vw;
+}
+
+
+.button_border {
+    background-color: gray;
+    width: 10vw;
+    height: 25vh;
+    position: relative;
+    bottom: 40vh;
+    left: 15vw;
+}
+
+.h {
+    text-align: center;
+}
+
